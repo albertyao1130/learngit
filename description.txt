@@ -1,1 +1,2 @@
 git is useful
+But I don't know how to use it
