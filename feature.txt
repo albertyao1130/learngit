@@ -1,3 +1,4 @@
 git has many features
 we are trying many new features
 we wish it would work
+make a conflict
